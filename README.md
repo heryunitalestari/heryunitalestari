@@ -1,10 +1,9 @@
 ### Hi there 👋
 - 👋 Hi, I’m @heryunitalestari
-- 🔭 I’m currently working on Akademi Maritim Nusatara Cilacap
+- 🔭 I’m currently working on AMN Cilacap
 - 🌱 I’m currently learning in Web Development
 - 👯 I’m looking to collaborate on Github
 - 📫 How to reach me in email: heryunita@amn.ac.id
-- 😄 Pronouns: English and Indonesia
 <!--
 **heryunitalestari/heryunitalestari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
